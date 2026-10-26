@@ -59,8 +59,10 @@ Dashboard em Streamlit para análise de vendas: receita, desempenho por produto,
 
 ## GitHub em números
 
+<div align="left">
 <img height="165" alt="Estatísticas do GitHub de Renato Perussi" src="https://github-readme-stats.vercel.app/api?username=renato-perussi&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&locale=pt-br&rank_icon=github" />
 <img height="165" alt="Linguagens mais usadas por Renato Perussi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-perussi&layout=compact&hide_border=true&theme=github_dark&locale=pt-br&langs_count=8" />
+</div>
 
 ---
 
