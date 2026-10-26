@@ -8,7 +8,7 @@
 
 ## Sobre
 
-Minha base é em **Ciências Econômicas**, com formação técnica em **Tecnologia**. Hoje aprofundo meus estudos em **Análise,  Ciência de Dados** e **Desenvolvimento Web**, usando Python como ferramenta principal.
+Minha base é em **Ciências Econômicas**, com formação técnica em **Tecnologia**. Hoje aprofundo meus estudos em **Análise de Dados,  Ciência de Dados** e **Desenvolvimento Web**, usando Python como ferramenta principal.
 
 Gosto de projetos que unem contexto de negócio e código: dashboards, automações e análises que ajudam na tomada de decisão. Meus temas de interesse são **finanças, e-commerce e mercado imobiliário**.
 
